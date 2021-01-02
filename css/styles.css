@@ -133,17 +133,42 @@ figure{
   margin: auto;
 }
 
-.computer-img {
-  width: 25%;
+.clogo-img {
+  width: 20%;
   float: left;
-  margin-right: 40px;
+  margin-right: 20px;
+  margin-top: 10px;
 }
 
-.computer2-img {
+.matlablogo-img {
+  width: 20%;
+  float: right;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+.signalprocessinglogo-img {
   width: 25%;
   float: right;
   margin-left: 40px;
+  margin-top: 50px;
 }
+
+.pythonlogo-img {
+  width: 20%;
+  float: left;
+  margin-right: 40px;
+  margin-top: 30px;
+}
+
+.htmlcsslogo-img {
+  width: 20%;
+  float: right;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+
 
 .skill-row {
   width: 65%;
